@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.navbar{
+    font-size: 25px;
+} 
+
+.navbar-brand{
+    font-size: 30px;
+}
+h1 {
+    font-size: 2.5rem;
+    margin: 40px;
+}
+.col{
+    background-color: rgb(226, 219, 205);
+    margin: 20px;
+    font-size: 18px;
+}
